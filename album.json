@@ -1,0 +1,35 @@
+{
+  "name": "Thriller",
+  "artist": "Micheal Jackson",
+  "genre": "pop",
+  "released": 1982,
+  "producer": "Quincy Jones"
+}
+{
+  "name": "Dangerous",
+  "artist": "Micheal Jackson",
+  "genre": "R&B",
+  "released": 1991,
+  "producer": "Bill Bottrell"
+}
+{
+  "name": "The Blueprint",
+  "artist": "Jay-Z",
+  "genre": "hip hop",
+  "released": 2001,
+  "producer": "Shawn Carter"
+}
+{
+  "name": "25",
+  "artist": "Adele",
+  "genre": "soul",
+  "released": 2015,
+  "producer": "Danger Mouse"
+}
+{
+  "name": "1989",
+  "artist": "Taylor Swift",
+  "genre": "synth-pop",
+  "released": 2014,
+  "producer": "Max Martin"
+}
